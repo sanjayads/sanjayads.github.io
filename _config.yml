@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/profile-pic.jpg"
   bio    : "Graduate Student in Mechanical Engineering. Interested in Robotics, Control Systems and Smart Manufacturing."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sanjayads.github.io/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:tdsssenarathna@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/tdsssenarathna/"
