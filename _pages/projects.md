@@ -2,19 +2,7 @@
 title: "Projects"
 layout: splash
 permalink: /projects/
-date: 2025-10-07
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/lab-bg.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "View My GitHub"
-      url: "https://github.com/YourGitHubUsername"
-excerpt: "Selected research and engineering projects — robotics, automation, and AI for mechanical systems."
 
-intro:
-  - excerpt: "I work at the intersection of robotics, control systems, and intelligent automation. Below are some of my featured projects."
 
 feature_row:
   - image_path: /assets/images/dentara-thumbnail.jpg
