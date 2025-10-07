@@ -28,10 +28,11 @@ p.lead{margin:0 0 24px;color:var(--muted)}
 .title a{color:var(--accent);text-decoration:none}
 .title a:hover{text-decoration:underline}
 .authors{margin:0 0 6px;color:var(--muted);font-size:0.95rem}
-.venue{margin:0;color:var(--muted);font-size:0.9rem}
+.conference{margin:0 0 4px;color:var(--muted);font-size:0.9rem;font-style:italic}
+.location{margin:0 0 4px;color:var(--muted);font-size:0.9rem}
+.date{margin:0;color:var(--muted);font-size:0.9rem}
 
 
-/* small responsiveness */
 @media (max-width:520px){.wrap{padding:16px} .title{font-size:0.98rem}}
 </style>
 </head>
@@ -52,7 +53,9 @@ p.lead{margin:0 0 24px;color:var(--muted)}
 <li class="pub" id="pub-dentara-2025">
 <h3 class="title"><a href="https://doi.org/10.1109/CASE58245.2025.11164109" target="_blank" rel="noopener noreferrer">Dentara 1.0: An Autonomous Dental Surgery Assistive Robotic Station</a></h3>
 <p class="authors"><strong>T.D.S.S. Senarathna</strong>, Y.P.D. Kaluarachchi, A.V.P. Lakshan, Y.W.R. Amarasinghe, W.A.D.M. Jayathilaka, Charith Premachandra, U-Xuan Tan</p>
-<p class="venue">In: International Conference on Automation Science and Engineering (CASE 2025), Los Angeles, California, USA — Aug. 2025</p>
+<p class="conference">International Conference on Automation Science and Engineering (CASE 2025)</p>
+<p class="location">Los Angeles, California, USA</p>
+<p class="date">August 2025</p>
 </li>
 </ul>
 </section>
@@ -69,14 +72,18 @@ p.lead{margin:0 0 24px;color:var(--muted)}
 <li class="pub" id="pub-mems-2024">
 <h3 class="title"><a href="https://doi.org/10.1109/IECON55916.2024.10905143" target="_blank" rel="noopener noreferrer">Design and Simulation of a MEMS Based Surface Profilometer</a></h3>
 <p class="authors"><strong>T.D.S.S. Senarathna</strong>, S.A. Kariyawasam, Y.W.R. Amarasinghe, W.A.D.M. Jayathilaka</p>
-<p class="venue">In: Annual Conference of the IEEE Industrial Electronics Society (IECON 2024), Chicago, USA — Nov. 2024</p>
+<p class="conference">Annual Conference of the IEEE Industrial Electronics Society (IECON 2024)</p>
+<p class="location">Chicago, USA</p>
+<p class="date">November 2024</p>
 </li>
 
 
 <li class="pub" id="pub-hybrid-2024">
 <h3 class="title"><a href="https://doi.org/10.1007/978-981-96-1399-1_22" target="_blank" rel="noopener noreferrer">A Novel Hybrid Robot Configuration for Enhanced Accessibility and Space Efficiency</a></h3>
 <p class="authors">Y.P.D. Kaluarachchi, <strong>T.D.S.S. Senarathna</strong>, A.V.P. Lakshan, Y.W.R. Amarasinghe, W.A.D.M. Jayathilaka, Charith Premachandra</p>
-<p class="venue">In: International Engineering Research Symposium (IERS 2024), Colombo, Sri Lanka — Aug. 2024</p>
+<p class="conference">International Engineering Research Symposium (IERS 2024)</p>
+<p class="location">Colombo, Sri Lanka</p>
+<p class="date">August 2024</p>
 </li>
 </ul>
 </section>
