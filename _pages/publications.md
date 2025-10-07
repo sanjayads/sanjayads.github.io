@@ -12,7 +12,7 @@ author_profile: true
 <style>
 :root{--bg:#f8fafc;--card:#ffffff;--muted:#586169;--accent:#0b5cff}
 html,body{height:100%;margin:0;font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; background:var(--bg);color:#0b1220}
-.wrap{max-width:900px;margin:48px auto;padding:24px}
+.wrap{max-width:1100px;margin:48px auto;padding:24px}
 h1{font-size:1.6rem;margin:0 0 8px}
 p.lead{margin:0 0 24px;color:var(--muted)}
 
@@ -23,8 +23,8 @@ p.lead{margin:0 0 24px;color:var(--muted)}
 .pub-list{list-style:none;padding:0;margin:12px 0 0}
 
 
-.pub{background:var(--card);border-radius:12px;padding:14px 16px;margin:12px 0;box-shadow:0 4px 14px rgba(11,17,32,0.06)}
-.title{margin:0 0 6px;font-weight:600}
+.pub{background:var(--card);border-radius:12px;padding:20px 24px;margin:16px 0;box-shadow:0 4px 14px rgba(11,17,32,0.06)}
+.title{margin:0 0 8px;font-weight:600}
 .title a{color:var(--accent);text-decoration:none}
 .title a:hover{text-decoration:underline}
 .authors{margin:0 0 6px;color:var(--muted);font-size:0.95rem}
@@ -38,8 +38,6 @@ p.lead{margin:0 0 24px;color:var(--muted)}
 </head>
 <body>
 <main class="wrap" id="publications">
-<h1>Publications</h1>
-<p class="lead">Selected peer-reviewed conference papers, grouped by year.</p>
 
 
 <!-- 2025 -->
