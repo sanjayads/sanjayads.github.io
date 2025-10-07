@@ -27,7 +27,8 @@ p.lead{margin:0 0 24px;color:var(--muted)}
 .title{margin:0;font-weight:600}
 .title a{color:var(--accent);text-decoration:none}
 .title a:hover{text-decoration:underline}
-.authors,.conference,.location,.date{margin:0;color:var(--muted);font-size:0.9rem;line-height:1.2}
+.authors{margin:0;color:var(--muted);font-size:0.9rem;line-height:1.2}
+.conference,.location,.date{margin:0;color:var(--muted);font-size:0.9rem;line-height:1.1}
 
 
 @media (max-width:520px){.wrap{padding:16px} .title{font-size:0.98rem}}
