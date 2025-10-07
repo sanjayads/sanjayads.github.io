@@ -2,7 +2,7 @@
 title: "Projects"
 layout: splash
 permalink: /projects/
-
+excerpt: "Projects"
 
 feature_row:
   - image_path: /assets/images/dentara-thumbnail.jpg
