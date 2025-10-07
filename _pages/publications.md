@@ -4,9 +4,6 @@ layout: single
 permalink: /publications/
 author_profile: true
 ---
-
-<h1>Publications</h1>
-
 <!-- 2025 -->
 <h2>2025</h2>
 <p>
