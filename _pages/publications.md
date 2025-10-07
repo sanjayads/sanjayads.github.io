@@ -23,14 +23,11 @@ p.lead{margin:0 0 24px;color:var(--muted)}
 .pub-list{list-style:none;padding:0;margin:12px 0 0}
 
 
-.pub{background:var(--card);border-radius:12px;padding:20px 24px;margin:16px 0;box-shadow:0 4px 14px rgba(11,17,32,0.06)}
-.title{margin:0 0 8px;font-weight:600}
+.pub{background:var(--card);border-radius:12px;padding:16px 20px;margin:16px 0;box-shadow:0 4px 14px rgba(11,17,32,0.06)}
+.title{margin:0;font-weight:600}
 .title a{color:var(--accent);text-decoration:none}
 .title a:hover{text-decoration:underline}
-.authors{margin:0 0 6px;color:var(--muted);font-size:0.95rem}
-.conference{margin:0 0 4px;color:var(--muted);font-size:0.9rem;font-style:italic}
-.location{margin:0 0 4px;color:var(--muted);font-size:0.9rem}
-.date{margin:0;color:var(--muted);font-size:0.9rem}
+.authors,.conference,.location,.date{margin:0;color:var(--muted);font-size:0.9rem;line-height:1.2}
 
 
 @media (max-width:520px){.wrap{padding:16px} .title{font-size:0.98rem}}
@@ -38,6 +35,8 @@ p.lead{margin:0 0 24px;color:var(--muted)}
 </head>
 <body>
 <main class="wrap" id="publications">
+<h1>Publications</h1>
+<p class="lead">Selected peer-reviewed conference papers, grouped by year.</p>
 
 
 <!-- 2025 -->
